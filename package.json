@@ -1,0 +1,12 @@
+{
+    "description": "A full Bitcoin node build with Bitcore",
+    "repository": "https://github.com/user/project",
+    "license": "MIT",
+    "readme": "README.md",
+    "dependencies": {
+        "bitcore-lib": "https://github.com/quasarcoin/quasarcore-lib.git",
+        "bitcore-node": "https://github.com/quasarcoin/bitcore-node.git",
+        "insight-yng": "https://github.com/quasarcoin/insight-yng.git",
+        "insight-yng-api": "https://github.com/quasarcoin/insight-yng-api.git#bitchk"
+    }
+}

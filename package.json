@@ -6,7 +6,7 @@
     "dependencies": {
         "bitcore-lib": "https://github.com/quasarcoin/quasarcore-lib.git",
         "bitcore-node": "https://github.com/quasarcoin/bitcore-node.git",
-        "insight-yng": "https://github.com/quasarcoin/insight-yng.git",
-        "insight-yng-api": "https://github.com/quasarcoin/insight-yng-api.git#bitchk"
+        "insight-qac": "https://github.com/quasarcoin/insight-qac.git",
+        "insight-qac-api": "https://github.com/quasarcoin/insight-qac-api.git"
     }
 }

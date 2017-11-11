@@ -1,6 +1,6 @@
 {
     "network": "livenet",
-    "port": 23008,
+    "port": 13280,
     "services": [
         "bitcoind",
         "web",
